@@ -26,6 +26,7 @@ I also was fortunate to work closely with Prof. <a href="https://rmcong.github.i
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 One TIP paper is accepted. -->
+- 🎉🎉 One TMM paper is accepted. Congratulations to Chao Jiao.
 - 🎉🎉 One TIP paper is accepted. Congratulations to Kaisheng.
 - 🎉🎉 One CVPR 2026 main track and two findings are accepted. Congratulations to Yawen.
 - 🎉🎉 One TIP paper is accepted. Congratulations to Rongxin.
