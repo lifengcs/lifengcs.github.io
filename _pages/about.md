@@ -348,7 +348,7 @@ IEEE Transactions on Image Processing (**TIP**), 2020
   </li>
   <li><strong>Jiaxin Han</strong> (2022-2025), Beijing Jiaotong University, Master, <strong style="color: purple;">1xTMM</strong>
   </li>
-  <li><strong>Chao Jiao</strong> (2022-present), Beijing Jiaotong University, Phd, Screen Content Image, <strong style="color: purple;">2xTMM
+  <li><strong>Chao Jiao</strong> (2022-present), Beijing Jiaotong University, Phd, Screen Content Image, <strong style="color: purple;">2xTMM</strong>
   </li>
   <li><strong>Dongyi Zhang</strong> (2019-2023), Beijing Jiaotong University, Master, Image Compression, <strong style="color: purple;">1xTCSVT</strong>➡️ Now: Shopee
   </li>
